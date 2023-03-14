@@ -1,0 +1,4 @@
+lane,blue_team,champName_blue,kills_blue,deaths_blue,assits_blue,condition_blue,kda_blue,red_team,champName_red,kills_red,deaths_red,assits_red,condition_red,kda_red
+TOP,blue,이렐리아,7,2,7,good,7.0,red,일라오이,3,9,0,bad,0.33
+MID,blue,바루스,18,0,4,good,22.0,red,벡스,1,10,3,bad,0.4
+bottom,blue,애쉬,1,5,15,good,3.2,red,제리,11,9,2,bad,1.44
